@@ -1,7 +1,7 @@
 ### Hey there, I'm Nestor!! 👋
-## Developer and recent Wyncode Academy graduate
+## Developer and Cohort 37 Wyncode Academy graduate
 
-- 🔭 I’m currently working on a Kotlin project.
+- 🔭 I’m currently working on camera based application.
 - 🌱 I’m currently learning pretty much everything I can.
 - ⚡ Fun fact: I'm a percussionist and a huge fan of Star Wars
 - 💼 Current Job: Open for work /currently searching 🔎
