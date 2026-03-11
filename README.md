@@ -1,21 +1,27 @@
-### Hey there, I'm Nestor!! 👋
-## Developer and Cohort 37 Wyncode Academy graduate
+# Hello, I'm Nestor
+<a href="https://linkedin.com/in/nestorhrivera"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-- 🔭 Working towards a career in Cybersecurity.
-- 🌱 I’m currently learning pretty much everything I can.
-- ⚡ Fun fact: I'm a percussionist and a huge fan of Star Wars
-- 💼 Current Job: Open for work /currently searching 🔎
+I am an Air Force Reservist and recent Cybersecruity undergraduate with a profound interest in **Penetration Testing and Digital Forensics**.
 
-## Connect with me
-- https://www.linkedin.com/in/nestorhrivera
-- https://nestorhrivera.com
+This Github serves as a **living portfolio** documenting what I'm learning, breaking, and building along the way.
 
-<img
-  align="left"
-  alt="nhrivera's Github Stats"
-  src="https://github-readme-stats.vercel.app/api?username=nhrivera&show_icons=true&hide_border=true"
-  />
+## Objective
+Right now I'm focused on developing real-world offensive security skills.
 
-<!--
-**nhrivera/nhrivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## Skills
+🚧UNDER CONSTRUCTION🚧 (Will update this section soon)
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| ...                                           |...                         |
+
+## Tools
+🚧UNDER CONSTRUCTION🚧 (Will update this section soon)
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+## Projects
+🚧UNDER CONSTRUCTION🚧 (Will update this section soon)
