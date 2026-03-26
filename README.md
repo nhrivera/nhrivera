@@ -28,3 +28,6 @@ Right now I'm focused on developing real-world offensive security skills.
 
 ## Projects
 🚧UNDER CONSTRUCTION🚧 (Will update this section soon)
+
+## Hack The Box Profile
+<a href="https://app.hackthebox.com/users/2140931"><img src="https://www.hackthebox.com/badge/image/2140931" /></a>
