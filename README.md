@@ -1,5 +1,5 @@
 # Hello, I'm Nestor
-<a href="https://linkedin.com/in/nestorhrivera"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[//]: # (<a href="https://linkedin.com/in/nestorhrivera"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>)
 
 I am an Air Force Reservist and recent Cybersecruity undergraduate with a profound interest in **Penetration Testing and Digital Forensics**, with a minor background in **MERN** Stack Web Development (Wyncode Cohort 37 Graduate).
 
@@ -9,14 +9,7 @@ This Github serves as a **living portfolio** documenting what I'm learning, brea
 Right now I'm focused on developing real-world offensive security skills.
 
 ## Skills
-
-| Skill                                         | Associated Project and Write-Up           |
-|-----------------------------------------------|-------------------------------------------|
-| Application Mapping & Manual Recon            | Usage (Retired-HTB-Machine) Write-up      |
-| SQL Injection (SQLi)                          | SecNotes (Retired-HTB-Machine) Write-up   |
-| Authentication & Session Management Flaws     | Headless (Retired-HTB-Machine) Write-up   |
-| Broken Access Control & IDOR                  | BroScience (Retired-HTB-Machine) Write-up |
-| Cross-Site Scripting (XSS)                    | Imagery (Retired-HTB-Machine) Write-up    |
+🚧UNDER CONSTRUCTION🚧 (Will update this section soon)
 
 ## Tools
 🚧UNDER CONSTRUCTION🚧 (Will update this section soon)
